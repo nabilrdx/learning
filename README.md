@@ -1,2 +1,2 @@
 # learning
-Learning Git &amp; github
+Learning Git &amp; github.
